@@ -1,7 +1,4 @@
 
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 2 Lesson 1, integer Sums Assignment
-//Date of Completion: September 26th 2024
 //Description: this is a program where a user can enter integer whole numbers into 
 //a list and can do a variety of different functions with their list such as adding
 //or summing all the even or odd numbers and sorting it least to greatest, averages
